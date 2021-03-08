@@ -1,5 +1,10 @@
+.TL
+Weekday Schedule
+.AU
+Elias Howell
+
 .TS
-tab(;) allbox;
+tab(;) center, allbox;
 l,al.
 Time;Task 
 4AM-7AM;Homework, Study
